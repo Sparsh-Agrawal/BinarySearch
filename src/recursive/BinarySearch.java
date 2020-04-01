@@ -63,7 +63,4 @@ public class BinarySearch
                 System.out.println("Element not found");
             }
     }
-
-
 }
-
